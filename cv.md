@@ -1,6 +1,9 @@
 # Evgeniy Grushevskiy
 
 
+![Photo](/myFoto.jpg)
+
+
 ## About me:
 
 
